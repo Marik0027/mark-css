@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+}
+
+p {
+    background-color: green;
+}
+
+#chosen {
+    text-decoration: underline;
+}
+
+.border {
+    border: 1px solid blue;
+}
+
+div > p {
+    font-weight: bold ;
+    color: red;
+}
